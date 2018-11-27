@@ -3,8 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://jimmiebtlr.com/posts/27.11.2018.dog_breeds/</loc>
+    <lastmod>2018-11-27T12:49:20+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://jimmiebtlr.com/about/</loc>
     <lastmod>2018-11-26T08:02:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jimmiebtlr.com/tags/30days-of-ml/</loc>
+    <lastmod>2018-11-27T12:49:20+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -13,13 +24,56 @@
   </url>
   
   <url>
+    <loc>http://jimmiebtlr.com/tags/education/</loc>
+    <lastmod>2018-11-27T12:49:20+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jimmiebtlr.com/categories/education/</loc>
+    <lastmod>2018-11-27T12:49:20+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://jimmiebtlr.com/</loc>
-    <lastmod>2018-11-26T08:02:30+00:00</lastmod>
+    <lastmod>2018-11-27T12:49:20+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jimmiebtlr.com/tags/keras/</loc>
+    <lastmod>2018-11-27T12:49:20+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jimmiebtlr.com/tags/machine-learning/</loc>
+    <lastmod>2018-11-27T12:49:20+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jimmiebtlr.com/categories/machine-learning/</loc>
+    <lastmod>2018-11-27T12:49:20+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jimmiebtlr.com/posts/</loc>
+    <lastmod>2018-11-27T12:49:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jimmiebtlr.com/tags/</loc>
+    <lastmod>2018-11-27T12:49:20+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jimmiebtlr.com/tags/tensor-flow/</loc>
+    <lastmod>2018-11-27T12:49:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   

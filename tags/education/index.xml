@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jimmie Butler</title>
-    <link>http://jimmiebtlr.com/</link>
-    <description>Recent content on Jimmie Butler</description>
+    <title>Education on Jimmie Butler</title>
+    <link>http://jimmiebtlr.com/tags/education/</link>
+    <description>Recent content in Education on Jimmie Butler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Nov 2018 12:49:20 +0000</lastBuildDate>
     
-	<atom:link href="http://jimmiebtlr.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jimmiebtlr.com/tags/education/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,17 +21,6 @@
 Today I went followed an article on getting running with a kaggle dataset on google co-laboratory. https://medium.com/@vivekpothina/working-with-kaggle-dataset-on-google-colab-d3d4a77ead62
 Short of needing long running gpu instances, I&amp;rsquo;ll likely be using co-laboratory for much of my exploration in the future.
 It really is nearly exact copy paste with some notes, but my version of the article code can be found here.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://jimmiebtlr.com/about/</link>
-      <pubDate>Mon, 26 Nov 2018 08:02:30 +0000</pubDate>
-      
-      <guid>http://jimmiebtlr.com/about/</guid>
-      <description>Hello, I&amp;rsquo;m Jimmie
-What I do professionally - Devops with terraform/kubernetes - Golang Development - Software Architecture
-I&amp;rsquo;m currently studying machine learning.</description>
     </item>
     
   </channel>

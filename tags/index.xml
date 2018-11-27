@@ -6,9 +6,55 @@
     <description>Recent content in Tags on Jimmie Butler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 27 Nov 2018 12:49:20 +0000</lastBuildDate>
     
 	<atom:link href="http://jimmiebtlr.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>30days of Ml</title>
+      <link>http://jimmiebtlr.com/tags/30days-of-ml/</link>
+      <pubDate>Tue, 27 Nov 2018 12:49:20 +0000</pubDate>
+      
+      <guid>http://jimmiebtlr.com/tags/30days-of-ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>http://jimmiebtlr.com/tags/education/</link>
+      <pubDate>Tue, 27 Nov 2018 12:49:20 +0000</pubDate>
+      
+      <guid>http://jimmiebtlr.com/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keras</title>
+      <link>http://jimmiebtlr.com/tags/keras/</link>
+      <pubDate>Tue, 27 Nov 2018 12:49:20 +0000</pubDate>
+      
+      <guid>http://jimmiebtlr.com/tags/keras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>http://jimmiebtlr.com/tags/machine-learning/</link>
+      <pubDate>Tue, 27 Nov 2018 12:49:20 +0000</pubDate>
+      
+      <guid>http://jimmiebtlr.com/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor Flow</title>
+      <link>http://jimmiebtlr.com/tags/tensor-flow/</link>
+      <pubDate>Tue, 27 Nov 2018 12:49:20 +0000</pubDate>
+      
+      <guid>http://jimmiebtlr.com/tags/tensor-flow/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

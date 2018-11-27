@@ -10,5 +10,23 @@
 	<atom:link href="http://jimmiebtlr.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Education</title>
+      <link>http://jimmiebtlr.com/categories/education/</link>
+      <pubDate>Tue, 27 Nov 2018 12:49:20 +0000</pubDate>
+      
+      <guid>http://jimmiebtlr.com/categories/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>http://jimmiebtlr.com/categories/machine-learning/</link>
+      <pubDate>Tue, 27 Nov 2018 12:49:20 +0000</pubDate>
+      
+      <guid>http://jimmiebtlr.com/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
